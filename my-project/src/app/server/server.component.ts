@@ -9,7 +9,7 @@ export class ServerComponent {
     serverStatus = 'Offline'
     
     getAdmin() {
-        return `John O''Dowd`;
+        return `John ODowd`;
     }
 }
 
